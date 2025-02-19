@@ -1,0 +1,1 @@
+This project is a Fake News Detection System that uses machine learning to classify news articles as either real or fake based on textual data. It follows a structured pipeline to load, preprocess, vectorize, train, and evaluate a model for detecting fake news.
